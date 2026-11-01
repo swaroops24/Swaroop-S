@@ -23,7 +23,7 @@ public class Main {
 }
 
 
-Sample output:
+Output:
 Sum = 30
 Product = 10.0
 Largest = 30
